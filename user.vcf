@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
+N:Minton;Betsy;;;
+FN: Elizabeth "Betsy" Minton 
+ORG:Episcopal School of Baton Rouge;
+TITLE:Academic Technology Coordinator
 EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+TEL;type=WORK;type=VOICE:1 225 753 3180 ext. 1475
+item1.ADR;type=WORK;type=pref:;;Baton Rouge;;;Louisiana;USA
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://betsyminton.tech/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
